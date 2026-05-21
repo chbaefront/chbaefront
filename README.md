@@ -7,6 +7,19 @@ I also worked as a frontend instructor at a coding bootcamp. Sharing my knowledg
 If you're curious about what I’m working on or thinking about, feel free to check out my tech blog below!   
 Thank you for reading!
 
+### Career
+
+DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02) 
+엘리스그룹 — KDT Frontend Bootcamp Instructor (2024.08 ~ 2025.01)  
+아이씨티어스 — Frontend Developer (2021.11 ~ 2023.09)  
+헬스앤메디슨 — Frontend Lead (2020.09 ~ 2021.05)  
+프레시코드 — Frontend Developer (2018.10 ~ 2020.02)  
+오직 — Backend Developer (2016.06 ~ 2018.03)
+
+### Open Source Contributions
+- [Mantine](https://github.com/mantinedev/mantine)
+  - feat. implement safe area polygon for sub menus [#8908](https://github.com/mantinedev/mantine/pull/8908)
+
 ---
 
 > my blog : https://medium.com/@zero86 <br>
