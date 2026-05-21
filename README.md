@@ -19,6 +19,10 @@ DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02)
 ### Open Source Contributions
 - [Mantine](https://github.com/mantinedev/mantine)
   - feat. implement safe area polygon for sub menus [#8908](https://github.com/mantinedev/mantine/pull/8908)
+ 
+- [Vue.js v3 / Vue-router-next](https://github.com/vuejs-kr)
+  - Vue.js v3 공식 문서 번역 참여
+  - Vue-router-next 공식 문서 번역 참 
 
 ---
 
