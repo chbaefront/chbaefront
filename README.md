@@ -9,7 +9,7 @@ Thank you for reading!
 
 ### Career
 
-DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02) 
+DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02)   
 엘리스그룹 — KDT Frontend Bootcamp Instructor (2024.08 ~ 2025.01)  
 아이씨티어스 — Frontend Developer (2021.11 ~ 2023.09)     
 헬스앤메디슨 — Frontend Lead (2020.09 ~ 2021.05)  
