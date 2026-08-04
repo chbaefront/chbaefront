@@ -9,6 +9,7 @@ Thank you for reading!
 
 ### Career
 
+가이라랩스 - Frontend Developer, Freelancer (2026.06 ~ 2026.07)
 DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02)   
 엘리스그룹 — KDT Frontend Bootcamp Instructor, Freelancer (2024.08 ~ 2025.01)  
 아이씨티어스 — Frontend Developer (2021.11 ~ 2023.09)     
