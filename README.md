@@ -23,7 +23,7 @@ DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02)
  
 - [Vue.js v3 / Vue-router-next](https://github.com/vuejs-kr)
   - Vue.js v3 공식 문서 번역 참여
-  - Vue-router-next 공식 문서 번역 참
+  - Vue-router-next 공식 문서 번역 참여
  
 ### Mentoring
 
