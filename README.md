@@ -18,6 +18,14 @@ DK Rabbit — Frontend Developer, Freelancer (2025.06 ~ 2026.02)
 오직 — Backend Developer (2016.06 ~ 2018.03)   
 
 ### Open Source Contributions
+- [vite-plus](https://github.com/voidzero-dev/vite-plus)
+  - fix. skip react router git initialization [#3363](https://github.com/voidzero-dev/vite-plus/pull/3363)
+  - feat. add --continue-on-error [#3367](https://github.com/voidzero-dev/vite-plus/pull/3367)
+  - feat. add --fix-dangerously [#3413](https://github.com/voidzero-dev/vite-plus/pull/3413)
+
+- [React Router](https://github.com/remix-run/react-router)
+  - fix. allow scaffolding when initial Git commit fails [#15737](https://github.com/remix-run/react-router/pull/15737)
+
 - [Mantine](https://github.com/mantinedev/mantine)
   - feat. implement safe area polygon for sub menus [#8908](https://github.com/mantinedev/mantine/pull/8908)
  
